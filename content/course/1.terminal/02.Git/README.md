@@ -22,7 +22,7 @@ It also serves as a place to put your code. It is the biggest online developer c
 ## Exercises
 
 - [Exercise : Configure Git](2.Configure-Git.md)
-- [Exercise : Git training](3.Git-Training.md)
-- [Exercise : Git collage](4.Git-Collage.md)
+- [Exercise : Git training](2.Git-Training.md)
+- [Exercise : Git collage](3.Git-Collage.md)
 
 [Back to the fields](../)
